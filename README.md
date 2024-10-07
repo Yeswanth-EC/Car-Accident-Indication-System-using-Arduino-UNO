@@ -1,1 +1,2 @@
 # Car-Accident-Indication-System-using-Arduino-UNO
+The increasing rate of road accidents has heightened the need for efficient systems to provide immediate response and assistance. This project presents the design and implementation of a Car Accident Indication System using Arduino Uno integrated with GPS, GSM, and a collision sensor to detect accidents and send real-time alerts to predefined contacts or emergency services. The system aims to reduce the response time in case of accidents, potentially saving lives.
